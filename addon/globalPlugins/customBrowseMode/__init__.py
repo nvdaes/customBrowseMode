@@ -6,20 +6,20 @@
 import addonHandler
 import globalPluginHandler
 import globalVars
-import ui
 import config
 from treeInterceptorHandler import post_browseModeStateChange
-from logHandler import log
 
 addonHandler.initTranslation()
 
 browseModeProfile = "browseMode"
+
 
 def handleBrowseModeStateChange(browseMode):
 	if browseMode:
 		config.conf.manualActivateProfile(browseModeProfile)
 	else:
 		config.conf.manualActivateProfile(None)
+
 
 def disableInSecureMode(decoratedCls):
 	if globalVars.appArgs.secure:
