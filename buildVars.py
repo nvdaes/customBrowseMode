@@ -20,7 +20,7 @@ addon_info = {
 	"addon_description": _("""Activates or deactivates profiles deppending on browse mode state.
 	The browseMode profile can be edited when browse mode is not active, from the NVDA's menu, Configuration profiles dialog."""),
 	# version
-	"addon_version": "0.0.1",
+	"addon_version": "0.1.0",
 	# Author(s)
 	"addon_author": u"Noelia Ruiz Martínez <nrm1977@gmail.com>, Ever Solis <disoever@gmail.com>",
 	# URL for the add-on documentation support
