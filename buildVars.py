@@ -23,7 +23,7 @@ addon_info = AddonInfo(
 	# Translators: Long description to be shown for this add-on on add-on information from add-on store
 	addon_description=_("""Activates or deactivates profiles deppending on browse mode state.\nThe browseMode profile can be edited when browse mode is not active, from the NVDA's menu, Configuration profiles dialog."""),
 	# version
-	addon_version="5.0.0",
+	addon_version="5.1.0",
 	# Brief changelog for this version
 	# Translators: what's new content for the add-on version to be shown in the add-on store
 	addon_changelog=_("""* Compatible with NVDA 2026.1."""),
