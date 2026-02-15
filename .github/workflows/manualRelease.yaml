@@ -18,6 +18,8 @@ on:
 
 jobs:
   buildAndUpload:
+    permissions:
+      contents: write
     continue-on-error: true
     runs-on: ubuntu-latest
 
