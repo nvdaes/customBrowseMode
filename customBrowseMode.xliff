@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en">
+<file id="readme.md" original="https://raw.githubusercontent.com/nvdaes/customBrowseMode/4ebb5052e6cd252bfdb7cef08841865b32668eef/readme.md">
+<skeleton>
+# $(ID:413f59e1-3b34-4d54-8e7e-8583d5dad12a)
+
+*	$(ID:2ec01bbd-d329-4efe-b3a2-3ffe44feb38c)
+
+$(ID:3feae4cb-9736-4c5a-adde-01555388b8bd)
+
+$(ID:809c3b62-2d95-4a66-9582-4ee2ce5854cf)
+
+$(ID:82b444c0-aac7-4578-9d6d-40b1a2b7779e)
+
+</skeleton>
+<unit id="413f59e1-3b34-4d54-8e7e-8583d5dad12a">
+<notes>
+<note appliesTo="source">line: 2</note>
+<note appliesTo="source">prefix: # </note>
+</notes>
+<segment>
+<source>Custom Browse Mode #</source>
+</segment>
+</unit>
+<unit id="2ec01bbd-d329-4efe-b3a2-3ffe44feb38c">
+<notes>
+<note appliesTo="source">line: 4</note>
+<note appliesTo="source">prefix: *	</note>
+</notes>
+<segment>
+<source>Author: Noelia Ruiz Martínez, Ever Solis</source>
+</segment>
+</unit>
+<unit id="3feae4cb-9736-4c5a-adde-01555388b8bd">
+<notes>
+<note appliesTo="source">line: 6</note>
+</notes>
+<segment>
+<source>This add-on is used to activate or deactivate profiles deppending on the state of browse mode.</source>
+</segment>
+</unit>
+<unit id="809c3b62-2d95-4a66-9582-4ee2ce5854cf">
+<notes>
+<note appliesTo="source">line: 8</note>
+</notes>
+<segment>
+<source>Currently, when browse mode is active, a profile named browseMode will be activated, and it will be deactivated when browse mode becomes inactive.</source>
+</segment>
+</unit>
+<unit id="82b444c0-aac7-4578-9d6d-40b1a2b7779e">
+<notes>
+<note appliesTo="source">line: 10</note>
+</notes>
+<segment>
+<source>The browseMode profile will be automatically created if it doesn't exist.</source>
+</segment>
+</unit>
+</file>
+</xliff>
